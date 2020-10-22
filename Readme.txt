@@ -1,3 +1,12 @@
+College Assignments  
+Linear Regression from Scratch  
+Log Regression from Scratch (with and without L2 regularization)  
+Log Regression for multinomial classification (OVR)  
+Visualization of datasets.  
+
+
+
+
 ##############################################################
 ##############################################################
 
