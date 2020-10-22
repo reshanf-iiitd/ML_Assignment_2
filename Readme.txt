@@ -12,7 +12,7 @@ Visualization of datasets.
 
 1-Just run the ReshanFaraz_PhD19006_A2.py file and get results. If you want to check for specific question then please comment 
 all other function in the main(last). I prepare this file in modular structure so every Question has module and all helper
-function are well defined the ReshanFaraz_PhD19006_A2.py
+function are well defined in the ReshanFaraz_PhD19006_A2.py
 
 2-All Dataset file(dataset_1.mat,datatset_2.mat,Dataset.data) must present in same folder. Also the Regression.py and 
 LogRegression.py must present in the same folder where the python code is present.
